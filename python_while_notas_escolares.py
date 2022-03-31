@@ -1,4 +1,4 @@
-# programa que lê as notas digitadas pelo usuário, insere as mesmas em uma lista e calcula a média entre elas.
+# programa que lê as notas digitadas pelo usuário, \ninsere as mesmas em uma lista e calcula a média entre elas.
 
 notas = [0, 0, 0, 0, 0]
 soma = 0
